@@ -6,7 +6,7 @@ El link al repositorio es el siguiente: [Ejercicios Grupales](https://github.com
 
 *Para ello nos hemos basado en la teoría dada sobre cómo hacer algorítmos y los ejemplos dados.*
 
-**Para resolver todos los ejercicios lo que he hecho ha sido:**
+**Para resolver todos los ejercicios lo que hemos hecho ha sido:**
 
 *Primero, definir el nombre del algoritmo y sus características principales.*
 
