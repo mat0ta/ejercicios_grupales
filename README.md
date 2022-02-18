@@ -1,1 +1,6 @@
-# ejercicios_grupales
+# Entraga algorítmica Grupal
+
+Este repositorio ha sido elaborado por [mat0ta](https://github.com/mat0ta) y [diegodesantos1](https://github.com/diegodesantos1)
+
+El link al repositorio es el siguiente: [Ejercicios Grupales](https://github.com/mat0ta/ejercicios_grupales)
+
