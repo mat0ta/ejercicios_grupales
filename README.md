@@ -6,8 +6,6 @@ El link al repositorio es el siguiente: [Ejercicios Grupales](https://github.com
 
 ## Ejercicio 1: Sucesor de un DÍA de la semana
 
-![image](https://user-images.githubusercontent.com/72810000/154758357-1959c515-2fc4-47a9-9dfa-b57663f56675.png)
-
 ## Ejercicio 2: Números, suma y producto
 
 ## Ejercicio 3: Descuento
