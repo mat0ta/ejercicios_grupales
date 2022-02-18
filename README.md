@@ -4,6 +4,20 @@ Este repositorio ha sido elaborado por [mat0ta](https://github.com/mat0ta) y [di
 
 El link al repositorio es el siguiente: [Ejercicios Grupales](https://github.com/mat0ta/ejercicios_grupales)
 
+*Para ello nos hemos basado en la teoría dada sobre cómo hacer algorítmos y los ejemplos dados.*
+
+**Para resolver todos los ejercicios lo que he hecho ha sido:**
+
+*Primero, definir el nombre del algoritmo y sus características principales.*
+
+*Segundo, definir las variables que voy a utilizar en dicho algoritmo.*
+
+*Tercero, establecer las precondiciones para realizar el algoritmo.*
+
+*Cuarto, realizar el propio algoritmo.*
+
+*Y por último establecer las postcondiciones y el resultado del propio algoritmo*
+
 ## Ejercicio 1: Sucesor de un DÍA de la semana
 
 ![image](https://user-images.githubusercontent.com/72810000/154760615-80e7761f-cc32-47ab-ae29-a24693099786.png)
