@@ -10,6 +10,8 @@ El link al repositorio es el siguiente: [Ejercicios Grupales](https://github.com
 
 ## Ejercicio 2: Números, suma y producto
 
+![image](https://user-images.githubusercontent.com/72810000/154758416-8bffac98-d0d0-4ac8-bb6c-9d16bd50dd77.png)
+
 ## Ejercicio 3: Descuento
 
 ## Ejercicio 4: Otra vez una media
